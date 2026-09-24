@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "kingharlem.aternos.me",
+    "port": 21185,
     "version": "1.20.1",
     "try-creative": false
   },
